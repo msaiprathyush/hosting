@@ -21,7 +21,7 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
         <body>
             <h1>Welcome to Prathyush's Collection of Projects</h1>
             <ul>
-                <li><a href="#" onclick="loadApp('http://18.232.57.19:80'); return false;">ATS with ChatGPT</a></li>
+                <li><a href="#" onclick="loadApp('http://18.232.57.19:82'); return false;">ATS with ChatGPT</a></li>
                 <li><a href="#" onclick="loadApp('http://18.232.57.19:8501'); return false;">ATS with Google Gemini</a></li>
             </ul>
             <div id="app-container"></div>
